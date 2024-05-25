@@ -1,12 +1,12 @@
 SiiNunit
 {
-save_container : _nameless.1f4.8f4b.cce0 {
+save_container : _nameless.275.39cf.0110 {
  name: ""
- time: 27233
- file_time: 1677626088
- version: 64
+ time: 55206
+ file_time: 1684687871
+ version: 68
  info_version: 1
- dependencies: 13
+ dependencies: 14
  dependencies[0]: "dlc|eut2_balt|DLC - Beyond the Baltic Sea"
  dependencies[1]: "dlc|eut2_daf_21|DLC - DAF 2021"
  dependencies[2]: "dlc|eut2_east|DLC - Going East!"
@@ -14,18 +14,19 @@ save_container : _nameless.1f4.8f4b.cce0 {
  dependencies[4]: "rdlc|eut2_flags_sc|DLC - Scottish Paint Jobs"
  dependencies[5]: "rdlc|eut2_flags_uk|DLC - UK Paint Jobs"
  dependencies[6]: "rdlc|eut2_halloween|DLC - Halloween Paint Jobs"
- dependencies[7]: "rdlc|eut2_metallics|DLC - Metallic Paint Jobs"
- dependencies[8]: "rdlc|eut2_nature|DLC - Force of Nature Paint Jobs"
- dependencies[9]: "dlc|eut2_north|DLC - Scandinavia"
- dependencies[10]: "rdlc|eut2_rocket_league|DLC - Rocket League"
- dependencies[11]: "rdlc|eut2_trailers|DLC - High Power Cargo Pack"
- dependencies[12]: "rdlc|eut2_winter|DLC - Ice Cold Paint Jobs"
- info_players_experience: 927214
- info_unlocked_recruitments: 5
- info_unlocked_dealers: 7
+ dependencies[7]: "dlc|eut2_man_tgx|DLC - MAN TGX 2020"
+ dependencies[8]: "rdlc|eut2_metallics|DLC - Metallic Paint Jobs"
+ dependencies[9]: "rdlc|eut2_nature|DLC - Force of Nature Paint Jobs"
+ dependencies[10]: "dlc|eut2_north|DLC - Scandinavia"
+ dependencies[11]: "rdlc|eut2_rocket_league|DLC - Rocket League"
+ dependencies[12]: "rdlc|eut2_trailers|DLC - High Power Cargo Pack"
+ dependencies[13]: "rdlc|eut2_winter|DLC - Ice Cold Paint Jobs"
+ info_players_experience: 935258
+ info_unlocked_recruitments: 9
+ info_unlocked_dealers: 13
  info_visited_cities: 151
- info_money_account: 119393
- info_explored_ratio: &3d3922fe
+ info_money_account: 63511
+ info_explored_ratio: &3dcffac8
 }
 
 }
